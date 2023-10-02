@@ -4,4 +4,4 @@ The Reno High School school map has been outdated for a long time, and it causes
 We hope to provide this new feature-rich map to the school, to make everyone's life easier when it comes to finding their classes.
 <br/>
 # why a webapp?
-As the software developer in this project, I wanted to make the map readily accesable to everyone. Using a webapp would hopefully allow WCSD/RHS to impliment the webapp directly into their website, allowing people to quickly visit the app, generate their route, download it if needed, and leave without having to download anything. 
+As the software developer in this project, I wanted to make the map readily accesable to everyone. Using a webapp would hopefully allow WCSD/RHS to impliment the webapp directly into their website, allowing people to quickly visit the app, generate their route, download it if needed, and leave without having to download anything. n
